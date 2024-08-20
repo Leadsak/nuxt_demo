@@ -9,8 +9,8 @@
       </div>
       <div class="grid grid-rows-subgrid gap-4 row-span-3 " >
       <div class="flex flex-col mt-10 gap-5 ">
-        <div class=" border-[1px] border-black  rounded  w-[434px] h-[30px]   " ></div>
-        <div class=" border-[1px] border-black  rounded  w-[434px] h-[30px]   " ></div>   
+        <div class=" border-[1px] border-black  rounded  w-[434px] h-[30px] ml-[104px] " ></div>
+        <div class=" border-[1px] border-black  rounded  w-[434px] h-[30px] ml-[104px] " ></div>   
         <div class="row-start-3 " >
               <div class="flex justify-end ">
               <div class="rounded-full w-[50px] text-center  bg-[#0ea2e4] text-gray-50 ">save</div>
